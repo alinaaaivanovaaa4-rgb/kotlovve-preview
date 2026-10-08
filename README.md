@@ -1,3 +1,3 @@
 # kotlovve — preview
 
-Static desktop preview of the handmade cat-tree website.
+Responsive preview of the handmade cat-tree website for phones, tablets and desktop.
